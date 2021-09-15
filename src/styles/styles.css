@@ -1,0 +1,10 @@
+html{
+    font-family: "Montserrat";
+}
+
+.home{
+    height:100vh;
+    background-image: url('../images/honeycomb.jpg');
+    color: rgb(242, 247, 250);
+    font-size: 4rem
+}

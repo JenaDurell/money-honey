@@ -1,15 +1,15 @@
 import * as React from "react"
-
-
+import '../styles/styles.css'
+import Honeycomb from "../components/honeycomb"
 const IndexPage = () => {
   return (
-    <main >
+    <main className='home'>
       <title>Home Page</title>
-      <h1 >
+     
+      <div >
         Congratulations
         
-      </h1>
-      
+      </div>
     </main>
   )
 }
